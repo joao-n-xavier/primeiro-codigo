@@ -1,2 +1,2 @@
-# primeiro-site
-Construindo um site colocando em pratica os conhecimentos de HTML, CSS e JavaScript
+# primeiro codigo
+Construindo um site com os conhecimentos de HTML, CSS e JavaScript
